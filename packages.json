@@ -1,0 +1,77 @@
+[
+  {
+    "package": "amc",
+    "url": "https://github.com/achubaty/amc",
+    "branch": "development"
+  },
+  {
+    "package": "CBMutils",
+    "url": "https://github.com/PredictiveEcology/CBMutils",
+    "branch": "development"
+  },
+  {
+    "package": "fireSenseUtils",
+    "url": "https://github.com/PredictiveEcology/fireSenseUtils",
+    "branch": "development"
+  },
+  {
+    "package": "LandR",
+    "url": "https://github.com/PredictiveEcology/LandR",
+    "branch": "development"
+  },
+  {
+    "package": "LandWebUtils",
+    "url": "https://github.com/PredictiveEcology/LandWebUtils",
+    "branch": "development"
+  },
+  {
+    "package": "map",
+    "url": "https://github.com/PredictiveEcology/map",
+    "branch": "development"
+  },
+  {
+    "package": "pemisc",
+    "url": "https://github.com/PredictiveEcology/pemisc",
+    "branch": "development"
+  },
+  {
+    "package": "peutils",
+    "url": "https://github.com/PredictiveEcology/peutils",
+    "branch": "development"
+  },
+  {
+    "package": "quickPlot",
+    "url": "https://github.com/PredictiveEcology/quickPlot",
+    "branch": "development"
+  },
+  {
+    "package": "Require",
+    "url": "https://github.com/PredictiveEcology/Require",
+    "branch": "development"
+  },
+  {
+    "package": "reproducible",
+    "url": "https://github.com/PredictiveEcology/reproducible",
+    "branch": "development"
+  },
+  {
+    "package": "SpaDES.core",
+    "url": "https://github.com/PredictiveEcology/SpaDES.core",
+    "branch": "development"
+  },
+  {
+    "package": "SpaDES.install",
+    "url": "https://github.com/PredictiveEcology/SpaDES.install",
+    "branch": "development"
+  },
+  {
+    "package": "SpaDES.tools",
+    "url": "https://github.com/PredictiveEcology/SpaDES.tools",
+    "branch": "development"
+  },
+  {
+    "package": "usefulFuns",
+    "url": "https://github.com/PredictiveEcology/usefulFuns",
+    "branch": "development"
+  }
+]
