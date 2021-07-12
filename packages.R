@@ -19,7 +19,7 @@ gh_prefix <- "https://github.com/"
 
 df <- data.frame(
   package = basename(repos),
-  url = paste0(gh_prefix, repos),
-  branch = "development"
+  url = paste0(gh_prefix, repos)#,
+  #branch = "development"
 )
 jsonlite::write_json(df, 'packages.json', pretty = TRUE)
