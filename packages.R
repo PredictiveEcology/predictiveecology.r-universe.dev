@@ -4,6 +4,7 @@ repos <- c(
   "PredictiveEcology/fireSenseUtils",
   "PredictiveEcology/LandR",
   "PredictiveEcology/LandWebUtils",
+  "PredictiveEcology/NetLogoR",
   "PredictiveEcology/map",
   "PredictiveEcology/pemisc",
   "PredictiveEcology/peutils",

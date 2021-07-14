@@ -20,6 +20,10 @@
     "url": "https://github.com/PredictiveEcology/LandWebUtils"
   },
   {
+    "package": "NetLogoR",
+    "url": "https://github.com/PredictiveEcology/NetLogoR"
+  },
+  {
     "package": "map",
     "url": "https://github.com/PredictiveEcology/map"
   },
