@@ -80,6 +80,11 @@
     "branch": "development"
   },
   {
+    "package": "SpaDES.project",
+    "url": "https://github.com/PredictiveEcology/SpaDES.project",
+    "branch": "development"
+  },
+  {
     "package": "SpaDES.shiny",
     "url": "https://github.com/PredictiveEcology/SpaDES.shiny",
     "branch": "development"

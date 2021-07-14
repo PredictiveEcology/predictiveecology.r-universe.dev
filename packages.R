@@ -15,6 +15,7 @@ repos <- c(
   "PredictiveEcology/SpaDES.core@development",
   "PredictiveEcology/SpaDES.experiment@development",
   "PredictiveEcology/SpaDES.install@development",
+  "PredictiveEcology/SpaDES.project@development",
   "PredictiveEcology/SpaDES.shiny@development",
   "PredictiveEcology/SpaDES.tools@development",
   "PredictiveEcology/usefulFuns@development",
