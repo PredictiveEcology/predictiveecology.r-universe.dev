@@ -1,66 +1,101 @@
 [
   {
     "package": "amc",
-    "url": "https://github.com/achubaty/amc"
+    "url": "https://github.com/achubaty/amc",
+    "branch": "development"
   },
   {
     "package": "CBMutils",
-    "url": "https://github.com/PredictiveEcology/CBMutils"
+    "url": "https://github.com/PredictiveEcology/CBMutils",
+    "branch": "development"
   },
   {
     "package": "fireSenseUtils",
-    "url": "https://github.com/PredictiveEcology/fireSenseUtils"
+    "url": "https://github.com/PredictiveEcology/fireSenseUtils",
+    "branch": "development"
   },
   {
     "package": "LandR",
-    "url": "https://github.com/PredictiveEcology/LandR"
+    "url": "https://github.com/PredictiveEcology/LandR",
+    "branch": "development"
   },
   {
     "package": "LandWebUtils",
-    "url": "https://github.com/PredictiveEcology/LandWebUtils"
+    "url": "https://github.com/PredictiveEcology/LandWebUtils",
+    "branch": "development"
   },
   {
     "package": "NetLogoR",
-    "url": "https://github.com/PredictiveEcology/NetLogoR"
+    "url": "https://github.com/PredictiveEcology/NetLogoR",
+    "branch": "development"
   },
   {
     "package": "map",
-    "url": "https://github.com/PredictiveEcology/map"
+    "url": "https://github.com/PredictiveEcology/map",
+    "branch": "development"
   },
   {
     "package": "pemisc",
-    "url": "https://github.com/PredictiveEcology/pemisc"
+    "url": "https://github.com/PredictiveEcology/pemisc",
+    "branch": "development"
   },
   {
     "package": "peutils",
-    "url": "https://github.com/PredictiveEcology/peutils"
+    "url": "https://github.com/PredictiveEcology/peutils",
+    "branch": "development"
   },
   {
     "package": "quickPlot",
-    "url": "https://github.com/PredictiveEcology/quickPlot"
+    "url": "https://github.com/PredictiveEcology/quickPlot",
+    "branch": "development"
   },
   {
     "package": "Require",
-    "url": "https://github.com/PredictiveEcology/Require"
+    "url": "https://github.com/PredictiveEcology/Require",
+    "branch": "development"
   },
   {
     "package": "reproducible",
-    "url": "https://github.com/PredictiveEcology/reproducible"
+    "url": "https://github.com/PredictiveEcology/reproducible",
+    "branch": "development"
+  },
+  {
+    "package": "SpaDES.addins",
+    "url": "https://github.com/PredictiveEcology/SpaDES.addins",
+    "branch": "development"
   },
   {
     "package": "SpaDES.core",
-    "url": "https://github.com/PredictiveEcology/SpaDES.core"
+    "url": "https://github.com/PredictiveEcology/SpaDES.core",
+    "branch": "development"
+  },
+  {
+    "package": "SpaDES.experiment",
+    "url": "https://github.com/PredictiveEcology/SpaDES.experiment",
+    "branch": "development"
   },
   {
     "package": "SpaDES.install",
-    "url": "https://github.com/PredictiveEcology/SpaDES.install"
+    "url": "https://github.com/PredictiveEcology/SpaDES.install",
+    "branch": "development"
+  },
+  {
+    "package": "SpaDES.shiny",
+    "url": "https://github.com/PredictiveEcology/SpaDES.shiny",
+    "branch": "development"
   },
   {
     "package": "SpaDES.tools",
-    "url": "https://github.com/PredictiveEcology/SpaDES.tools"
+    "url": "https://github.com/PredictiveEcology/SpaDES.tools",
+    "branch": "development"
   },
   {
     "package": "usefulFuns",
-    "url": "https://github.com/PredictiveEcology/usefulFuns"
+    "url": "https://github.com/PredictiveEcology/usefulFuns",
+    "branch": "development"
+  },
+  {
+    "package": "fastshp",
+    "url": "https://github.com/s-u/fastshp"
   }
 ]
