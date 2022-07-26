@@ -5,6 +5,14 @@
     "branch": "development"
   },
   {
+    "package": "RandomFields",
+    "url": "https://github.com/cran/RandomFields"
+  },
+  {
+    "package": "RandomFieldsUtils",
+    "url": "https://github.com/cran/RandomFieldsUtils"
+  },
+  {
     "package": "CBMutils",
     "url": "https://github.com/PredictiveEcology/CBMutils",
     "branch": "development"

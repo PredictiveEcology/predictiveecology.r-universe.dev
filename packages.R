@@ -1,5 +1,7 @@
 repos <- c(
   "achubaty/amc@development",
+  "cran/RandomFields", ## removed from CRAN spring 2022
+  "cran/RandomFieldsUtils",
   "PredictiveEcology/CBMutils@development",
   "PredictiveEcology/fireSenseUtils@development",
   "PredictiveEcology/LandR@development",
