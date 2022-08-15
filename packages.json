@@ -104,6 +104,10 @@
     "branch": "development"
   },
   {
+    "package": "NLMR",
+    "url": "https://github.com/ropensci/NLMR"
+  },
+  {
     "package": "fastshp",
     "url": "https://github.com/s-u/fastshp"
   }
