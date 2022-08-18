@@ -110,5 +110,9 @@
   {
     "package": "fastshp",
     "url": "https://github.com/s-u/fastshp"
+  },
+  {
+    "package": "visualTest",
+    "url": "https://github.com/MangoTheCat/visualTest"
   }
 ]

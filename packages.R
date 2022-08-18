@@ -22,7 +22,8 @@ repos <- c(
   "PredictiveEcology/SpaDES.tools@development",
   "PredictiveEcology/usefulFuns@development",
   "ropensci/NLMR",
-  "s-u/fastshp"
+  "s-u/fastshp",
+  "MangoTheCat/visualTest"
 )
 repos2 <- sapply(repos, function(x) strsplit(x, "@")[[1]][1])
 branches <- sapply(repos, function(x) strsplit(x, "@")[[1]][2])
