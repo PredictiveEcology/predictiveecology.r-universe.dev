@@ -21,7 +21,7 @@ repos <- c(
   "PredictiveEcology/SpaDES.shiny",
   "PredictiveEcology/SpaDES.tools@development",
   "PredictiveEcology/usefulFuns@development",
-  "ropensci/NLMR",
+  "achubaty/NLMR", ## TODO: use ropensci or cran version
   "s-u/fastshp",
   "MangoTheCat/visualTest"
 )
