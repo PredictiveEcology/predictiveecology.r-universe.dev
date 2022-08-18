@@ -1,16 +1,18 @@
 repos <- c(
   "achubaty/amc@development",
-  "cran/RandomFields", ## removed from CRAN spring 2022
-  "cran/RandomFieldsUtils",
   "PredictiveEcology/CBMutils@development",
+  "s-u/fastshp",
   "PredictiveEcology/fireSenseUtils@development",
   "PredictiveEcology/LandR@development",
   "PredictiveEcology/LandWebUtils@development",
   "PredictiveEcology/NetLogoR@development",
+  "achubaty/NLMR", ## TODO: use ropensci or cran version once v1.1.1 or greater available
   "PredictiveEcology/map@development",
   "PredictiveEcology/pemisc@development",
   "PredictiveEcology/peutils@development",
   "PredictiveEcology/quickPlot@development",
+  "cran/RandomFields", ## removed from CRAN spring 2022
+  "cran/RandomFieldsUtils",
   "PredictiveEcology/Require@development",
   "PredictiveEcology/reproducible@development",
   "PredictiveEcology/SpaDES.addins",
@@ -21,8 +23,6 @@ repos <- c(
   "PredictiveEcology/SpaDES.shiny",
   "PredictiveEcology/SpaDES.tools@development",
   "PredictiveEcology/usefulFuns@development",
-  "achubaty/NLMR", ## TODO: use ropensci or cran version
-  "s-u/fastshp",
   "MangoTheCat/visualTest"
 )
 repos2 <- sapply(repos, function(x) strsplit(x, "@")[[1]][1])
