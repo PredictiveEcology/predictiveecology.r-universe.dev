@@ -5,17 +5,13 @@
     "branch": "development"
   },
   {
-    "package": "RandomFields",
-    "url": "https://github.com/cran/RandomFields"
-  },
-  {
-    "package": "RandomFieldsUtils",
-    "url": "https://github.com/cran/RandomFieldsUtils"
-  },
-  {
     "package": "CBMutils",
     "url": "https://github.com/PredictiveEcology/CBMutils",
     "branch": "development"
+  },
+  {
+    "package": "fastshp",
+    "url": "https://github.com/s-u/fastshp"
   },
   {
     "package": "fireSenseUtils",
@@ -38,6 +34,10 @@
     "branch": "development"
   },
   {
+    "package": "NLMR",
+    "url": "https://github.com/ropensci/NLMR"
+  },
+  {
     "package": "map",
     "url": "https://github.com/PredictiveEcology/map",
     "branch": "development"
@@ -56,6 +56,14 @@
     "package": "quickPlot",
     "url": "https://github.com/PredictiveEcology/quickPlot",
     "branch": "development"
+  },
+  {
+    "package": "RandomFields",
+    "url": "https://github.com/cran/RandomFields"
+  },
+  {
+    "package": "RandomFieldsUtils",
+    "url": "https://github.com/cran/RandomFieldsUtils"
   },
   {
     "package": "Require",
@@ -102,14 +110,6 @@
     "package": "usefulFuns",
     "url": "https://github.com/PredictiveEcology/usefulFuns",
     "branch": "development"
-  },
-  {
-    "package": "NLMR",
-    "url": "https://github.com/achubaty/NLMR"
-  },
-  {
-    "package": "fastshp",
-    "url": "https://github.com/s-u/fastshp"
   },
   {
     "package": "visualTest",

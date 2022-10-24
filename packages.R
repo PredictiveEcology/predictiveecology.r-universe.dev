@@ -6,7 +6,7 @@ repos <- c(
   "PredictiveEcology/LandR@development",
   "PredictiveEcology/LandWebUtils@development",
   "PredictiveEcology/NetLogoR@development",
-  "achubaty/NLMR", ## TODO: use ropensci or cran version once v1.1.1 or greater available
+  "ropensci/NLMR", ## TODO: cran version once v1.1.1 or greater available
   "PredictiveEcology/map@development",
   "PredictiveEcology/pemisc@development",
   "PredictiveEcology/peutils@development",
