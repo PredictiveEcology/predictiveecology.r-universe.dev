@@ -15,12 +15,11 @@ repos <- c(
   "cran/RandomFieldsUtils",
   "PredictiveEcology/Require@development",
   "PredictiveEcology/reproducible@development",
-  "PredictiveEcology/SpaDES.addins",
+  "PredictiveEcology/SpaDES.addins@development",
   "PredictiveEcology/SpaDES.core@development",
-  "PredictiveEcology/SpaDES.experiment",
-  "PredictiveEcology/SpaDES.install@development",
-  "PredictiveEcology/SpaDES.project",
-  "PredictiveEcology/SpaDES.shiny",
+  "PredictiveEcology/SpaDES.experiment@development",
+  "PredictiveEcology/SpaDES.project@transition", ## TODO: switch to development once merged
+  "PredictiveEcology/SpaDES.shiny@development",
   "PredictiveEcology/SpaDES.tools@development",
   "PredictiveEcology/usefulFuns@development",
   "MangoTheCat/visualTest"

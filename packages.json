@@ -77,7 +77,8 @@
   },
   {
     "package": "SpaDES.addins",
-    "url": "https://github.com/PredictiveEcology/SpaDES.addins"
+    "url": "https://github.com/PredictiveEcology/SpaDES.addins",
+    "branch": "development"
   },
   {
     "package": "SpaDES.core",
@@ -86,20 +87,18 @@
   },
   {
     "package": "SpaDES.experiment",
-    "url": "https://github.com/PredictiveEcology/SpaDES.experiment"
-  },
-  {
-    "package": "SpaDES.install",
-    "url": "https://github.com/PredictiveEcology/SpaDES.install",
+    "url": "https://github.com/PredictiveEcology/SpaDES.experiment",
     "branch": "development"
   },
   {
     "package": "SpaDES.project",
-    "url": "https://github.com/PredictiveEcology/SpaDES.project"
+    "url": "https://github.com/PredictiveEcology/SpaDES.project",
+    "branch": "transition"
   },
   {
     "package": "SpaDES.shiny",
-    "url": "https://github.com/PredictiveEcology/SpaDES.shiny"
+    "url": "https://github.com/PredictiveEcology/SpaDES.shiny",
+    "branch": "development"
   },
   {
     "package": "SpaDES.tools",
