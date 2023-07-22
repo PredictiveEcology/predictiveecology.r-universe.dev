@@ -1,6 +1,6 @@
 repos <- c(
   "achubaty/amc@development",
-  "RNCan/BioSimClient_R", ## BioSIM
+  "achubaty/BioSimClient_R", ## TODO: use upstream (CWFC-CCFB/J4R) once J4R added to Remotes
   "PredictiveEcology/CBMutils@development",
   "s-u/fastshp",
   "PredictiveEcology/fireSenseUtils@development",
