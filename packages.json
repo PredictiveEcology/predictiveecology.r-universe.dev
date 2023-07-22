@@ -5,6 +5,10 @@
     "branch": "development"
   },
   {
+    "package": "BioSIM",
+    "url": "https://github.com/RNCan/BioSimClient_R"
+  },
+  {
     "package": "CBMutils",
     "url": "https://github.com/PredictiveEcology/CBMutils",
     "branch": "development"
@@ -17,6 +21,10 @@
     "package": "fireSenseUtils",
     "url": "https://github.com/PredictiveEcology/fireSenseUtils",
     "branch": "development"
+  },
+  {
+    "package": "J4R",
+    "url": "https://github.com/CWFC-CCFB/J4R"
   },
   {
     "package": "LandR",
