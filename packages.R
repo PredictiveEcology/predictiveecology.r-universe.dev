@@ -1,8 +1,10 @@
 repos <- c(
   "achubaty/amc@development",
+  "achubaty/BioSimClient_R", ## TODO: use upstream (CWFC-CCFB/J4R) once J4R added to Remotes
   "PredictiveEcology/CBMutils@development",
   "s-u/fastshp",
   "PredictiveEcology/fireSenseUtils@development",
+  "CWFC-CCFB/J4R",
   "PredictiveEcology/LandR@development",
   "PredictiveEcology/LandWebUtils@development",
   "PredictiveEcology/NetLogoR@development",
@@ -35,4 +37,5 @@ df <- data.frame(
   branch = branches,
   row.names = NULL
 )
+df[df$package == "BioSimClient_R", ]$package <- "BioSIM"
 jsonlite::write_json(df, 'packages.json', pretty = TRUE)
