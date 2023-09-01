@@ -85,7 +85,8 @@
   },
   {
     "package": "SpaDES",
-    "url": "https://github.com/PredictiveEcology/SpaDES"
+    "url": "https://github.com/PredictiveEcology/SpaDES",
+    "branch": "development"
   },
   {
     "package": "SpaDES.addins",
