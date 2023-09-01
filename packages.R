@@ -15,6 +15,7 @@ repos <- c(
   "cran/RandomFieldsUtils",
   "PredictiveEcology/Require@development",
   "PredictiveEcology/reproducible@development",
+  "PredictiveEcology/SpaDES",
   "PredictiveEcology/SpaDES.addins@development",
   "PredictiveEcology/SpaDES.core@development",
   "PredictiveEcology/SpaDES.experiment@development",
