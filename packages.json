@@ -84,6 +84,10 @@
     "branch": "development"
   },
   {
+    "package": "SDMTools",
+    "url": "https://github.com/cran/SDMTools"
+  },
+  {
     "package": "SpaDES",
     "url": "https://github.com/PredictiveEcology/SpaDES",
     "branch": "development"
