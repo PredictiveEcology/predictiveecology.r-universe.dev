@@ -84,6 +84,10 @@
     "branch": "development"
   },
   {
+    "package": "scfmutils",
+    "url": "https://github.com/PredictiveEcology/scfmutils"
+  },
+  {
     "package": "SDMTools",
     "url": "https://github.com/cran/SDMTools"
   },
