@@ -74,6 +74,10 @@
     "url": "https://github.com/cran/RandomFieldsUtils"
   },
   {
+    "package": "rgdal",
+    "url": "https://github.com/cran/rgdal"
+  },
+  {
     "package": "rgeos",
     "url": "https://github.com/cran/rgeos"
   },
