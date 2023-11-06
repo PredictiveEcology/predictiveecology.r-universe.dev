@@ -74,6 +74,10 @@
     "url": "https://github.com/cran/RandomFieldsUtils"
   },
   {
+    "package": "rgeos",
+    "url": "https://github.com/cran/rgeos"
+  },
+  {
     "package": "Require",
     "url": "https://github.com/PredictiveEcology/Require",
     "branch": "development"
