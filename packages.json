@@ -84,7 +84,7 @@
   {
     "package": "Require",
     "url": "https://github.com/PredictiveEcology/Require",
-    "branch": "development"
+    "branch": "simplify4"
   },
   {
     "package": "reproducible",
