@@ -4,6 +4,7 @@ repos <- c(
   "PredictiveEcology/CBMutils@development",
   "s-u/fastshp",
   "PredictiveEcology/fireSenseUtils@development",
+  "https://github.com/rspatial/geodata", ## TODO: temporaril(?) removed from CRAN May 2024
   "CWFC-CCFB/J4R",
   "PredictiveEcology/LandR@development",
   "PredictiveEcology/LandWebUtils@development",
@@ -17,8 +18,8 @@ repos <- c(
   "cran/RandomFieldsUtils",
   "PredictiveEcology/Require@development",
   "PredictiveEcology/reproducible@development",
-  "cran/rgdal", ## removed from CRAN october 2023
-  "cran/rgeos", ## removed from CRAN october 2023
+  "cran/rgdal", ## removed from CRAN October 2023
+  "cran/rgeos", ## removed from CRAN October 2023
   "PredictiveEcology/scfmutils@development",
   "cran/SDMTools",
   "PredictiveEcology/SpaDES@development",

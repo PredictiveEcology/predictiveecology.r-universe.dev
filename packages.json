@@ -23,6 +23,10 @@
     "branch": "development"
   },
   {
+    "package": "geodata",
+    "url": "https://github.com/https://github.com/rspatial/geodata"
+  },
+  {
     "package": "J4R",
     "url": "https://github.com/CWFC-CCFB/J4R"
   },
@@ -74,14 +78,6 @@
     "url": "https://github.com/cran/RandomFieldsUtils"
   },
   {
-    "package": "rgdal",
-    "url": "https://github.com/cran/rgdal"
-  },
-  {
-    "package": "rgeos",
-    "url": "https://github.com/cran/rgeos"
-  },
-  {
     "package": "Require",
     "url": "https://github.com/PredictiveEcology/Require",
     "branch": "development"
@@ -90,6 +86,14 @@
     "package": "reproducible",
     "url": "https://github.com/PredictiveEcology/reproducible",
     "branch": "development"
+  },
+  {
+    "package": "rgdal",
+    "url": "https://github.com/cran/rgdal"
+  },
+  {
+    "package": "rgeos",
+    "url": "https://github.com/cran/rgeos"
   },
   {
     "package": "scfmutils",
