@@ -4,7 +4,7 @@ repos <- c(
   "PredictiveEcology/CBMutils@development",
   "s-u/fastshp",
   "PredictiveEcology/fireSenseUtils@development",
-  "https://github.com/rspatial/geodata", ## TODO: temporaril(?) removed from CRAN May 2024
+  "rspatial/geodata", ## TODO: temporaril(?) removed from CRAN May 2024
   "CWFC-CCFB/J4R",
   "PredictiveEcology/LandR@development",
   "PredictiveEcology/LandWebUtils@development",
