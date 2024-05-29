@@ -1,6 +1,6 @@
 # Predictive Ecology R-Universe
 
-Enables various packages to be automatically built from their GitHub sources, to facilitated installation via `install.packages()`.
+Enables various packages to be automatically built from their GitHub sources, to facilitate installation via `install.packages()`.
 
 Currently, we build from our `development` branches.
 
