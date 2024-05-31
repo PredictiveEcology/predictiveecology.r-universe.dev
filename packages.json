@@ -127,7 +127,7 @@
   {
     "package": "SpaDES.project",
     "url": "https://github.com/PredictiveEcology/SpaDES.project",
-    "branch": "transition"
+    "branch": "development"
   },
   {
     "package": "SpaDES.shiny",
