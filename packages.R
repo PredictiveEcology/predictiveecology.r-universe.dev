@@ -26,7 +26,7 @@ repos <- c(
   "PredictiveEcology/SpaDES.addins@development",
   "PredictiveEcology/SpaDES.core@development",
   "PredictiveEcology/SpaDES.experiment@development",
-  "PredictiveEcology/SpaDES.project@transition", ## TODO: switch to development once merged
+  "PredictiveEcology/SpaDES.project@development",
   "PredictiveEcology/SpaDES.shiny@development",
   "PredictiveEcology/SpaDES.tools@development",
   "PredictiveEcology/usefulFuns@development",
