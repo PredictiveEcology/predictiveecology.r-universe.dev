@@ -30,6 +30,8 @@ repos <- c(
   "PredictiveEcology/SpaDES.shiny@development",
   "PredictiveEcology/SpaDES.tools@development",
   "PredictiveEcology/usefulFuns@development",
+  "PredictiveEcology/pemisc@development",
+  "PredictiveEcology/pedev@development",
   "MangoTheCat/visualTest"
 )
 repos2 <- sapply(repos, function(x) strsplit(x, "@")[[1]][1])
