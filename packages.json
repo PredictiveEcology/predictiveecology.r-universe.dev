@@ -145,6 +145,16 @@
     "branch": "development"
   },
   {
+    "package": "pemisc",
+    "url": "https://github.com/PredictiveEcology/pemisc",
+    "branch": "development"
+  },
+  {
+    "package": "pedev",
+    "url": "https://github.com/PredictiveEcology/pedev",
+    "branch": "development"
+  },
+  {
     "package": "visualTest",
     "url": "https://github.com/MangoTheCat/visualTest"
   }
