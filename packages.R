@@ -31,6 +31,7 @@ repos <- c(
   "PredictiveEcology/SpaDES.tools@development",
   "PredictiveEcology/usefulFuns@development",
   "PredictiveEcology/pemisc",
+  "ianmseddy/PSPclean",
   "PredictiveEcology/pedev",
   "MangoTheCat/visualTest"
 )

@@ -149,6 +149,10 @@
     "url": "https://github.com/PredictiveEcology/pemisc"
   },
   {
+    "package": "PSPclean",
+    "url": "https://github.com/ianmseddy/PSPclean"
+  },
+  {
     "package": "pedev",
     "url": "https://github.com/PredictiveEcology/pedev"
   },
