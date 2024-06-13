@@ -150,7 +150,8 @@
   },
   {
     "package": "PSPclean",
-    "url": "https://github.com/ianmseddy/PSPclean"
+    "url": "https://github.com/ianmseddy/PSPclean",
+    "branch": "development"
   },
   {
     "package": "pedev",
