@@ -36,6 +36,10 @@
     "branch": "development"
   },
   {
+    "package": "LandR.CS",
+    "url": "https://github.com/ianmseddy/LandR.CS"
+  },
+  {
     "package": "LandWebUtils",
     "url": "https://github.com/PredictiveEcology/LandWebUtils",
     "branch": "development"

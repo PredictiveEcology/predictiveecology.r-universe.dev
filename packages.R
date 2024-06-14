@@ -7,6 +7,7 @@ repos <- c(
   "rspatial/geodata", ## TODO: temporaril(?) removed from CRAN May 2024
   "CWFC-CCFB/J4R",
   "PredictiveEcology/LandR@development",
+  "ianmseddy/LandR.CS",
   "PredictiveEcology/LandWebUtils@development",
   "PredictiveEcology/NetLogoR@development",
   "ropensci/NLMR", ## TODO: cran version once v1.1.1 or greater available
