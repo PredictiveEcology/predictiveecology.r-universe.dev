@@ -7,7 +7,7 @@ repos <- c(
   "rspatial/geodata", ## TODO: temporaril(?) removed from CRAN May 2024
   "CWFC-CCFB/J4R",
   "PredictiveEcology/LandR@development",
-  "ianmseddy/LandR.CS",
+  "ianmseddy/LandR.CS@development",
   "PredictiveEcology/LandWebUtils@development",
   "PredictiveEcology/NetLogoR@development",
   "ropensci/NLMR", ## TODO: cran version once v1.1.1 or greater available
@@ -31,9 +31,9 @@ repos <- c(
   "PredictiveEcology/SpaDES.shiny@development",
   "PredictiveEcology/SpaDES.tools@development",
   "PredictiveEcology/usefulFuns@development",
-  "PredictiveEcology/pemisc",
+  "PredictiveEcology/pemisc@development",
   "ianmseddy/PSPclean@development",
-  "PredictiveEcology/pedev",
+  "PredictiveEcology/pedev@development",
   "MangoTheCat/visualTest"
 )
 repos2 <- sapply(repos, function(x) strsplit(x, "@")[[1]][1])

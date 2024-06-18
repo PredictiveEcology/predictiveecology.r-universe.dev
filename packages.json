@@ -37,7 +37,8 @@
   },
   {
     "package": "LandR.CS",
-    "url": "https://github.com/ianmseddy/LandR.CS"
+    "url": "https://github.com/ianmseddy/LandR.CS",
+    "branch": "development"
   },
   {
     "package": "LandWebUtils",
@@ -150,7 +151,8 @@
   },
   {
     "package": "pemisc",
-    "url": "https://github.com/PredictiveEcology/pemisc"
+    "url": "https://github.com/PredictiveEcology/pemisc",
+    "branch": "development"
   },
   {
     "package": "PSPclean",
@@ -159,7 +161,8 @@
   },
   {
     "package": "pedev",
-    "url": "https://github.com/PredictiveEcology/pedev"
+    "url": "https://github.com/PredictiveEcology/pedev",
+    "branch": "development"
   },
   {
     "package": "visualTest",
