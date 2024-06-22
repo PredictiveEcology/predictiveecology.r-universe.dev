@@ -34,7 +34,9 @@ repos <- c(
   "PredictiveEcology/pemisc@development",
   "ianmseddy/PSPclean@development",
   "PredictiveEcology/pedev@development",
-  "MangoTheCat/visualTest"
+  "MangoTheCat/visualTest",
+
+  "PredictiveEcology/libcbmr"
 )
 repos2 <- sapply(repos, function(x) strsplit(x, "@")[[1]][1])
 branches <- sapply(repos, function(x) strsplit(x, "@")[[1]][2])

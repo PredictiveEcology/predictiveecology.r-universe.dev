@@ -167,5 +167,9 @@
   {
     "package": "visualTest",
     "url": "https://github.com/MangoTheCat/visualTest"
+  },
+  {
+    "package": "libcbmr",
+    "url": "https://github.com/PredictiveEcology/libcbmr"
   }
 ]
