@@ -169,6 +169,10 @@
     "url": "https://github.com/MangoTheCat/visualTest"
   },
   {
+    "package": "mpbutils",
+    "url": "https://github.com/PredictiveEcology/mpbutils"
+  },
+  {
     "package": "libcbmr",
     "url": "https://github.com/PredictiveEcology/libcbmr"
   }
