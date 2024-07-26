@@ -17,7 +17,7 @@ repos <- c(
   "PredictiveEcology/quickPlot@development",
   "cran/RandomFields", ## removed from CRAN spring 2022
   "cran/RandomFieldsUtils",
-  "PredictiveEcology/Require@simplify4", ## TODO: switch to development once merged
+  "PredictiveEcology/Require@development",
   "PredictiveEcology/reproducible@development",
   "cran/rgdal", ## removed from CRAN October 2023
   "cran/rgeos", ## removed from CRAN October 2023
