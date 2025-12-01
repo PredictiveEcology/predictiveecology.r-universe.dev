@@ -4,7 +4,7 @@ repos <- c(
   "PredictiveEcology/CBMutils@development",
   "s-u/fastshp",
   "PredictiveEcology/fireSenseUtils@development",
-  "rspatial/geodata", ## TODO: temporaril(?) removed from CRAN May 2024
+  "rspatial/geodata",
   "CWFC-CCFB/J4R",
   "PredictiveEcology/LandR@development",
   "ianmseddy/LandR.CS@development",
@@ -15,14 +15,14 @@ repos <- c(
   "PredictiveEcology/pemisc@development",
   "PredictiveEcology/peutils@development",
   "PredictiveEcology/quickPlot@development",
-  "cran/RandomFields", ## removed from CRAN spring 2022
-  "cran/RandomFieldsUtils",
+  # "cran/RandomFields", ## removed from CRAN spring 2022
+  # "cran/RandomFieldsUtils",
   "PredictiveEcology/Require@development",
   "PredictiveEcology/reproducible@development",
-  "cran/rgdal", ## removed from CRAN October 2023
-  "cran/rgeos", ## removed from CRAN October 2023
+  # "cran/rgdal", ## removed from CRAN October 2023
+  # "cran/rgeos", ## removed from CRAN October 2023
   "PredictiveEcology/scfmutils@development",
-  "cran/SDMTools",
+  "achubaty/SDMTools", ## TODO: temporary until LandWeb v3 updates completed
   "PredictiveEcology/SpaDES@development",
   "PredictiveEcology/SpaDES.addins@development",
   "PredictiveEcology/SpaDES.core@development",
