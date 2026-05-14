@@ -2,6 +2,7 @@ repos <- c(
   "achubaty/amc@development",
   "RNCan/BioSimClient_R",
   "PredictiveEcology/CBMutils@development",
+  "PredictiveEcology/clusters",
   "s-u/fastshp",
   "PredictiveEcology/fireSenseUtils@development",
   "rspatial/geodata",
