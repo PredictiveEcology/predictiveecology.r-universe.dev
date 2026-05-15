@@ -14,6 +14,10 @@
     "branch": "development"
   },
   {
+    "package": "clusters",
+    "url": "https://github.com/PredictiveEcology/clusters"
+  },
+  {
     "package": "fastshp",
     "url": "https://github.com/s-u/fastshp"
   },
